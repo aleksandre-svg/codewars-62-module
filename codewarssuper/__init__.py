@@ -1,2 +1,1 @@
-from core import superprint
-superprint(3)
+from codewarssuper.core  import *
