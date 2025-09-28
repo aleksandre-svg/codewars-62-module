@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="codewars-62-module",       # pip install name
+    name="codewarssuper",       # pip install name
     version="0.1.0",
     packages=find_packages(),   # this finds virtxa_module automatically
-    author="Guram",
-    description="Homework Python module",
+    author="supergela",
+    description="module"
 )
